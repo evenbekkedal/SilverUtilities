@@ -1,6 +1,5 @@
 # SilverUtilities
 
-[![CI Status](http://img.shields.io/travis/Oscar Silver/SilverUtilities.svg?style=flat)](https://travis-ci.org/Oscar Silver/SilverUtilities)
 [![Version](https://img.shields.io/cocoapods/v/SilverUtilities.svg?style=flat)](http://cocoapods.org/pods/SilverUtilities)
 [![License](https://img.shields.io/cocoapods/l/SilverUtilities.svg?style=flat)](http://cocoapods.org/pods/SilverUtilities)
 [![Platform](https://img.shields.io/cocoapods/p/SilverUtilities.svg?style=flat)](http://cocoapods.org/pods/SilverUtilities)
