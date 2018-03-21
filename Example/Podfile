@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SilverUtilities_Tests' do
+  pod 'SilverUtilities', :path => '../'
+  
+  
+end
