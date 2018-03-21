@@ -1,0 +1,16 @@
+PODS:
+  - SilverUtilities (0.1.0)
+
+DEPENDENCIES:
+  - SilverUtilities (from `../`)
+
+EXTERNAL SOURCES:
+  SilverUtilities:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SilverUtilities: b589e68245769bae7a62eb46b8cf487a2b28ce88
+
+PODFILE CHECKSUM: 495c2f62af6268ea79c1d54530c75e91c45e9d82
+
+COCOAPODS: 1.4.0

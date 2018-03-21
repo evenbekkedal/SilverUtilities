@@ -1,0 +1,6 @@
+framework module SilverUtilities {
+  umbrella header "SilverUtilities-umbrella.h"
+
+  export *
+  module * { export * }
+}

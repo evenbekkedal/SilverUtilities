@@ -1,0 +1,22 @@
+{
+  "name": "SilverUtilities",
+  "version": "0.1.0",
+  "summary": "A short description of SilverUtilities.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Oscar Silver/SilverUtilities",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Oscar Silver": "oscarsilverdev@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Oscar Silver/SilverUtilities.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SilverUtilities/Classes/**/*"
+}
